@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "311032615357",
+    "project_id": "chat-flutter-course",
+    "storage_bucket": "chat-flutter-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311032615357:android:3df40461cbfea2f15282d4",
+        "android_client_info": {
+          "package_name": "br.com.course.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311032615357-b226fffv8qo99tu0df5s0tevu8sqa8ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvsmUyt8jEvFuQRkHdn_CFVXV2kOaSu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311032615357-b226fffv8qo99tu0df5s0tevu8sqa8ok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311032615357-95b9moh80b81duma6m6p23qaa6orre41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.ios.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
